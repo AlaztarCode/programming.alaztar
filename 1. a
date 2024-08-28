@@ -1,2 +1,12 @@
 //Tulislah rumus berikut dalam bahasa C++
 
+rumus :
+V = (4/3) * 3.14 * pow(r,3)
+
+output :
+volume bola
+
+penjelasan :
+dengan memberikan input r berupa radius/jari-jari, rumus itu akan mengolah input tersebut 
+sesuai rumus volume bola (4/3) * pi * r^3, lalu meng-assign hasil olahan tersebut kedalam variabel
+V sebagai volume bola
